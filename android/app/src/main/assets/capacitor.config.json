@@ -1,0 +1,9 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "fingerprint-aio",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"server": {
+		"url": "http://192.168.0.19:8100"
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fingerprint-aio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
